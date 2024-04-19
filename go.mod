@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/cloudwego/hertz v0.6.3
-	golang.org/x/net v0.7.0
+	golang.org/x/net v0.23.0
 )
 
 require (
